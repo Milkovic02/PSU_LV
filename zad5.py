@@ -1,4 +1,4 @@
-dat = open("C:\\Users\\student\\Documents\\zad4\\song.txt", 'r')
+dat = open("C:\\Users\\student\\Documents\\zad5\\song.txt", 'r')
 
 rjecnik = {}
 
