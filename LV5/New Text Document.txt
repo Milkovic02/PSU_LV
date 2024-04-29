@@ -1,0 +1,5 @@
+a) Pokrenite skriptu i pogledajte dobiveni dijagram raspršenja. Što primjećujete?
+Povišenjem temperature povećava se CO2 u zraku.
+b) Koliko podatkovnih primjera sadrži učitani skup podataka?
+10130
+c) Kakva je razdioba podatkovnih primjera po klasama?
